@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 09 Jun 2018 16:44:21 at http://skygreenwaste.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://skygreenwaste.com/ -O1 "C:\Users\adiru\OneDrive\Desktop\Computer Project Practice\SKG" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:44:23	Error: 	"Not Found" (404) at link skygreenwaste.com/img/favicon.ico (from skygreenwaste.com/)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/www.phitsolution.com (from skygreenwaste.com/)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/glyphicons-halflings-regular.eot (from skygreenwaste.com/css/bootstrap.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/glyphicons-halflings-regular.eot? (from skygreenwaste.com/css/bootstrap.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/glyphicons-halflings-regular.woff2 (from skygreenwaste.com/css/bootstrap.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/glyphicons-halflings-regular.woff (from skygreenwaste.com/css/bootstrap.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/glyphicons-halflings-regular.ttf (from skygreenwaste.com/css/bootstrap.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/glyphicons-halflings-regular.svg (from skygreenwaste.com/css/bootstrap.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 (from skygreenwaste.com/css/material-design-iconic-font.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/Material-Design-Iconic-Font.woff?v=2.2.0 (from skygreenwaste.com/css/material-design-iconic-font.min.css)
+16:44:41	Error: 	"Not Found" (404) at link skygreenwaste.com/fonts/fontawesome-webfont.woff2?v=4.7.0 (from skygreenwaste.com/css/font-awesome.min.css)
+16:44:42	Error: 	"Not Found" (404) at link skygreenwaste.com/css/img/hero/1.jpg (from skygreenwaste.com/css/style.css)
+16:44:42	Error: 	"Not Found" (404) at link skygreenwaste.com/css/img/hero/video.jpg (from skygreenwaste.com/css/style.css)
+16:44:42	Error: 	"Not Found" (404) at link skygreenwaste.com/css/img/icon/caret-down.png (from skygreenwaste.com/css/style.css)
+16:44:42	Error: 	"Not Found" (404) at link skygreenwaste.com/css/img/bg/video.jpg (from skygreenwaste.com/css/style.css)
+16:44:42	Error: 	"Not Found" (404) at link skygreenwaste.com/css/img/icon/plus.png (from skygreenwaste.com/css/style.css)
+16:44:42	Error: 	"Not Found" (404) at link skygreenwaste.com/css/img/bg/testimonial.jpg (from skygreenwaste.com/css/style.css)
+16:44:42	Error: 	"Not Found" (404) at link skygreenwaste.com/css/img/icon/plus-2.png (from skygreenwaste.com/css/style.css)
+16:44:43	Error: 	"Not Found" (404) at link skygreenwaste.com/index,.html (from skygreenwaste.com/team.aspx)
+16:44:43	Error: 	"Not Found" (404) at link skygreenwaste.com/POST (from skygreenwaste.com/WebResource.axd?d=GhXGayRMYmXebh9wH1_utB_jxbb1kdl29degQ8fAa2Ax6k3ILW7AMIhRnPS1W4RUqd7avx_o4n_Snp08IQm55FOD0oLHwIUSMm0RbI8Hb_Q1&t=635522358465637648)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 96 links scanned, 75 files written (11125113 bytes overall), 15 files updated [194447 bytes received at 8838 bytes/sec], 264987 bytes transferred using HTTP compression in 15 files, ratio 24%
+(20 errors, 0 warnings, 0 messages)
